@@ -8,8 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = UMad::VERSION
   spec.authors       = ["Adam Zaninovich"]
   spec.email         = ["adam.zaninovich@gmail.com"]
-  spec.summary       = %q{Y U Mad?}
-  spec.homepage      = ""
+  spec.summary       = %q{❨╯°□°❩╯︵┻━┻}
+  spec.description   = %q{❨╯°□°❩╯︵┻━┻}
+  spec.homepage      = "https://github.com/adamzaninovich/u_mad"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
